@@ -1,0 +1,5 @@
+data/
+results/
+*.pkl
+*.gz
+__pycache__/
